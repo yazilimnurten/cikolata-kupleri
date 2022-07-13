@@ -1,0 +1,1 @@
+html son odev icinde css te kullanildi
